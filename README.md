@@ -1,8 +1,3 @@
 “This is the readme file for the tutorial repository.”
 
 I dont know what Im doing pls help meeee..... :D
-
-
-TRACK CHANGES TO FILES
-
-anything you like 
